@@ -26,7 +26,6 @@ A sua interface é apresentada de uma maneira simples pôrem dinamica e de boa v
 
 <div align="center">
     <div><img src="assets/previews/preview1.png" width="700"></div>
-    <div><img src="assets/previews/preview3.png" width="200"></div>
     <div><img src="assets/previews/preview2.png" width="700"></div>
-    
+    <div><img src="assets/previews/preview3.png" width="200"></div>
 </div>
