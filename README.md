@@ -5,7 +5,7 @@ Projeto feito para fins didáticos e prática da linguagem JavaScript. O desenvo
 
 ### Tecnologias: <h3> 
 * HTML
-* CSS - Criação de estilos e costumizações.
+* CSS - Criação de estilos e customizações.
 
 ### Linguagem de programação: <h3>
 * JavaScript - Programar o app atráves de scripts externos.
